@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "James Dean",
+      "username": "Jimbo",
+      "email": "jimbo@gmail.com",
+      "phone": "012345678"
+    },
+    {
+      "id": 2,
+      "name": "Leah Graham",
+      "username": "LG",
+      "email": "leah78@hotmail.com",
+      "phone": "0434567890"
+    },
+    {
+      "id": 3,
+      "name": "Austin Rivers",
+      "username": "Austin89",
+      "email": "austin_rivers@gmail.com",
+      "phone": "0211123344"
+    },
+    {
+      "id": 4,
+      "name": "Jane lanette",
+      "username": "janeo",
+      "email": "jane45@outlook.com",
+      "phone": "0222333445"
+    }
+]
